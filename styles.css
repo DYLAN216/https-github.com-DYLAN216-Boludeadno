@@ -91,3 +91,8 @@ text-align: center;
  margin: 5px;
 }
 
+.grid-container .article .div .img-articulo{
+  width:150px;
+  height: 150px;
+
+ }
